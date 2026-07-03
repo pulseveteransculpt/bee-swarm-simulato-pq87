@@ -1,4 +1,4 @@
-
+hidden Script for bee swarm simulator offers the most advanced bee swarm simulator Script, with auto-heal and custom skins. Perfect for dominating
 
 
 
